@@ -1,0 +1,63 @@
+Page,Channel,Color,Text
+0,0,0x101010,Switch Desktop 1
+0,1,0x202020,Switch Desktop 2
+0,2,0x303030,Switch Desktop 3
+0,3,0x404040,Switch Desktop 4
+0,4,0x505050,Switch Desktop 5
+0,5,C_LT_GREEN,Move To Desktop
+0,6,C_LT_GREEN,Move to Laptop
+0,8,0x504040,Move to Desktop 1
+0,9,0x604040,Move to Desktop 2
+0,10,0x704040,Move to Desktop 3
+0,11,0x804040,Move to Desktop 4
+0,12,0x904040,Move to Desktop 5
+0,15,0x505025,github.com
+0,16,C_RED,Tag RED
+0,17,C_ORANGE,Tag Orange
+0,18,C_YELLOW,Tag Yellow
+0,19,C_GREEN,Tag Green
+0,20,C_BLUE,Tag Blue
+0,21,C_PURPLE,Tag Purple
+0,22,0xAAAAAA,Tag Grey
+0,24,0x202020,Lock Screen
+0,25,0x204020,Eject
+0,30,0x0A0A0A,Key
+1,0,C_ORANGE,RRset Lookup
+1,2,C_LT_GREEN,P's L
+1,4,C_PURPLE,Launch Copied Meeting
+1,5,C_BLUE,Mute Audio
+1,6,C_RED,Standup Call
+1,7,C_ORANGE,Mount Scans disk
+1,8,C_LT_ORANGE,RDATA IP lookup
+1,9,C_LT_ORANGE,RDATA Name lookup
+1,13,C_LT_BLUE,Stop Video
+1,14,C_YELLOW,Research Bridge
+1,15,C_GREEN,Mount Work Disk
+1,16,C_RED,DCE traffic
+1,17,C_LT_RED,Disable DCE
+1,21,C_RED,Leave Meeting
+1,22,C_LT_GREEN,TM
+1,24,C_TEAL,Github.com
+1,25,C_AQUA,Expensify
+1,26,C_BLUE,bill.com
+2,0,C_RED,Highlight Mouse
+2,1,C_ORANGE,Copy to tab
+2,7,C_BLUE,Start Mm
+2,27,C_LT_BLUE,Start VPN Split
+4,0,C_RED,Red Tag
+4,1,C_ORANGE,Orange Tag
+4,2,C_GREEN,Green Tag
+4,3,C_PURPLE,Purple Tag
+4,4,C_GREEN,Send
+4,5,C_RED,Delete
+4,7,C_BLUE,Dark/Light
+4,8,C_RED,Search Red
+4,9,C_ORANGE,Search Orange
+4,10,C_GREEN,Search Green
+4,11,C_PURPLE,Search Purple
+4,12,0x0000a,Clear Tag
+4,13,C_LT_GREEN,Reply
+4,14,C_GREEN,Replay All
+4,15,C_TEAL,Forward
+4,16,0x000e80,Mark read
+4,24,0x0015ff,Unread All
